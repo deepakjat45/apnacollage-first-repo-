@@ -1,2 +1,3 @@
-# apnacollage-first-repo-
-This is my first repository 
+# apnacollage-first-repo
+This is my first Git repository. 
+Author - Deepak jat
